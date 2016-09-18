@@ -1,2 +1,2 @@
 # cxp-lib
-Configurable XML parser (cxp)
+# Configurable XML parser (cxp)
